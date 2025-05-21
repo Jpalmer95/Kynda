@@ -1,2 +1,2 @@
 # Kynda
-Kynda Coffee dev
+Kynda Coffee - By Jonathan Korstad

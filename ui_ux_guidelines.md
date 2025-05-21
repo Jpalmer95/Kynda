@@ -1,4 +1,4 @@
-# UI/UX Design Guidelines: Modern Coffee Shop E-Commerce Website
+# UI/UX Design Guidelines: Modern Kynda Coffee Shop E-Commerce Website
 
 ## 1. Introduction
 
